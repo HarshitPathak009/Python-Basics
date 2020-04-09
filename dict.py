@@ -1,0 +1,9 @@
+d={"plum":0.66,"pears":1.25,"oranges":0.50,"apple":0.75}
+d["oranges"]=0.90
+print(d)
+d["plum"]=0.90
+print(d)
+d[0.50]=0.90
+print(d)
+d[2]=0.90
+print(d)
